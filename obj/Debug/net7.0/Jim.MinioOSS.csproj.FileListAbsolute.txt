@@ -1,0 +1,16 @@
+D:\Work\babyms\BABYMS\00-Share\Jim.MinioOSS\bin\Debug\net7.0\logo.jpg
+D:\Work\babyms\BABYMS\00-Share\Jim.MinioOSS\bin\Debug\net7.0\Jim.MinioOSS.deps.json
+D:\Work\babyms\BABYMS\00-Share\Jim.MinioOSS\bin\Debug\net7.0\Jim.MinioOSS.dll
+D:\Work\babyms\BABYMS\00-Share\Jim.MinioOSS\bin\Debug\net7.0\Jim.MinioOSS.pdb
+D:\Work\babyms\BABYMS\00-Share\Jim.MinioOSS\bin\Debug\net7.0\Jim.MinioOSS.xml
+D:\Work\babyms\BABYMS\00-Share\Jim.MinioOSS\obj\Debug\net7.0\Jim.MinioOSS.csproj.AssemblyReference.cache
+D:\Work\babyms\BABYMS\00-Share\Jim.MinioOSS\obj\Debug\net7.0\Jim.MinioOSS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\babyms\BABYMS\00-Share\Jim.MinioOSS\obj\Debug\net7.0\Jim.MinioOSS.AssemblyInfoInputs.cache
+D:\Work\babyms\BABYMS\00-Share\Jim.MinioOSS\obj\Debug\net7.0\Jim.MinioOSS.AssemblyInfo.cs
+D:\Work\babyms\BABYMS\00-Share\Jim.MinioOSS\obj\Debug\net7.0\Jim.MinioOSS.csproj.CoreCompileInputs.cache
+D:\Work\babyms\BABYMS\00-Share\Jim.MinioOSS\obj\Debug\net7.0\Jim.MinioOSS.sourcelink.json
+D:\Work\babyms\BABYMS\00-Share\Jim.MinioOSS\obj\Debug\net7.0\Jim.MinioOSS.dll
+D:\Work\babyms\BABYMS\00-Share\Jim.MinioOSS\obj\Debug\net7.0\refint\Jim.MinioOSS.dll
+D:\Work\babyms\BABYMS\00-Share\Jim.MinioOSS\obj\Debug\net7.0\Jim.MinioOSS.xml
+D:\Work\babyms\BABYMS\00-Share\Jim.MinioOSS\obj\Debug\net7.0\Jim.MinioOSS.pdb
+D:\Work\babyms\BABYMS\00-Share\Jim.MinioOSS\obj\Debug\net7.0\ref\Jim.MinioOSS.dll
